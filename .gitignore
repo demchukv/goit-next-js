@@ -35,6 +35,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# ide
 .idea
 .vscode
-
+nextjs-course-code-module_5_mutating_data_with_react-query (1).zip
